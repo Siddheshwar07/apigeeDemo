@@ -6,11 +6,12 @@
     <CreatedBy>siddhucholle99@gmail.com</CreatedBy>
     <Description></Description>
     <DisplayName>ConditionalFlow_PolicyConditions_S18E02</DisplayName>
-    <LastModifiedAt>1617961847228</LastModifiedAt>
+    <LastModifiedAt>1618131703143</LastModifiedAt>
     <LastModifiedBy>siddhucholle99@gmail.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:06f292e4f9850ece4000f07f6713ca2b9f5bcae7ed00e0d404bde539e960a68bf493f823ec8ba63647e475f37ab42c6c33991bba6f8573b20a7658fcdb4bac91:ap-northeast-1</ManifestVersion>
+    <ManifestVersion>SHA-512:09442b329fe1b46f8b00dd95d6c8fd4254fcea8b732bf3449d83c24ced9f0a486364af7efd7094be000ffeed3aed98bedfb91c6049671412ea3aa8dc7c5e5779:ap-northeast-1</ManifestVersion>
     <Policies>
         <Policy>JSON-to-XML-1</Policy>
+        <Policy>Quota-1</Policy>
         <Policy>Verify-API-Key-1</Policy>
     </Policies>
     <ProxyEndpoints>
